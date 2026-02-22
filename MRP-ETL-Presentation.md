@@ -1,6 +1,6 @@
 # Lukasz Gendek: Java Developer
 
-![Description of image](./image.jpg)
+![Description of image](./image2.jpg)
 
 ## Summary
 Lukasz Gendek is a seasoned Java developer with 23 years of experience, currently in the developing and maintaining the Market Risk Platform Active Pivot ETL application.
