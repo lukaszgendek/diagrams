@@ -1,23 +1,48 @@
-# Lukasz Gendek
+# Lukasz Gendek: Java Developer
 
-## Professional Overview
-I'm a seasoned Java developer with 23 years of extensive experience in software development and design. My passion for technology and innovation has driven me to excel in multiple projects and environments.
+## Summary
+Lukasz Gendek is a seasoned Java developer with 23 years of experience, specializing in the development and maintenance of the Market Risk Platform Active Pivot ETL application.
 
-## Key Areas of Expertise
-- Java Development
-- Software Architecture
-- ETL Processes
-- Data Management
-- Agile Methodologies
+## Professional Experience
+### Market Risk Platform Active Pivot ETL Application
+- **Role:** Lead Developer
+- **Years Active:** 2000 - Present
+- **Responsibilities:**  
+  - Developed high-performance ETL processes to handle complex datasets.  
+  - Collaborated with cross-functional teams to ensure the effective and efficient processing of financial data.
 
-## Experience
-### Market Risk Platform - Active Pivot ETL Project
-In my role as a Java developer, I had the privilege of participating in the Market Risk Platform Active Pivot ETL project, where I was responsible for:
-- Implementing robust data processing pipelines.
-- Streamlining ETL workflows to improve efficiency and reduce processing time.
-- Collaborating with cross-functional teams to integrate various data sources.
-
-Through this project, I gained deep insights into market risk management and advanced my skills in handling large datasets and complex business rules.
+### Key Contributions
+1. **FRTB Regulatory Requirements:**  
+   Implemented solutions to comply with Fundamental Review of the Trading Book (FRTB) regulations, ensuring accurate and timely reporting.
+2. **Data Flow:**  
+   Designed the data flow architecture from traders, passing through the London database, to the cleaning house and middleware.  
+   - **Components:**  
+     - Traders Input  
+     - London Database  
+     - Cleaning House  
+     - Middleware
+3. **Output Formats:**  
+   Developed ETL outputs in various formats:  
+   - **SABRE**  
+   - **MARS**  
+   - **URSUS**  
+   - **EDELWEISS**  
+   - **CSV/Parquet**
+4. **Risk Metrics Generated:**  
+   Implemented calculations for a range of risk metrics, including:
+   - Value at Risk (VaR)
+   - VaR Monte Carlo
+   - VaR Historical Simulation
+   - Sensitivities
+   - FRTB Sensitivities
+   - Stress and Localized Stress
+   - Global Stress
+5. **Columnar Database Storage:**  
+   - Utilized ActivePivot and Clickhouse for storing fact tables efficiently, optimizing query performance and storage.
+6. **Versioning:**  
+   - Developed a robust versioning system to track and manage changes in the ETL processes and data transformations.
+7. **OLAP Cube Capabilities:**  
+   - Integrated OLAP cube capabilities for real-time analysis and reporting functionality, enhancing decision-making processes.
 
 ## Conclusion
-With a strong foundation in Java and hands-on experience in critical projects, I am committed to delivering high-quality software solutions that meet the evolving needs of businesses.
+Lukasz Gendek is a highly skilled Java developer with extensive experience in risk management applications, proficient in both technical and business aspects of financial data handling.
