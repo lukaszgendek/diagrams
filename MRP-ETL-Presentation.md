@@ -5,8 +5,8 @@ Lukasz Gendek is a seasoned Java developer with 23 years of experience, speciali
 
 ## Professional Experience
 ### Market Risk Platform Active Pivot ETL Application
-- **Role:** Lead Developer
-- **Years Active:** 2000 - Present
+- **Role:** Java Developer
+- **Years Active:** 2025 March - Present
 - **Responsibilities:**  
   - Developed high-performance ETL processes to handle complex datasets.  
   - Collaborated with cross-functional teams to ensure the effective and efficient processing of financial data.
@@ -34,9 +34,8 @@ Lukasz Gendek is a seasoned Java developer with 23 years of experience, speciali
    - VaR Monte Carlo
    - VaR Historical Simulation
    - Sensitivities
-   - FRTB Sensitivities
-   - Stress and Localized Stress
-   - Global Stress
+   - FRTB
+   - Global Stress and Localized Stress
 5. **Columnar Database Storage:**  
    - Utilized ActivePivot and Clickhouse for storing fact tables efficiently, optimizing query performance and storage.
 6. **Versioning:**  
