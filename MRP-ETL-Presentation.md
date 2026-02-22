@@ -22,13 +22,14 @@ Lukasz Gendek is a seasoned Java developer with 23 years of experience, currentl
      - Cleaning House  
      - Middleware of the Bank (Cortex)
   - **Systems:**  
-   - **SABRE**  
-   - **MARS**  
-   - **URSUS**  
-   - **EDELWEISS**  
+   - SABRE  
+   - MARS  
+   - URSUS  
+   - EDELWEISS  
   - **Formats:**  
-   - **CSV/Parquet**
-4. **Risk Metrics Generated:**  
+   - CSV
+   - Parquet
+3. **Risk Metrics Generated:**  
    Implemented calculations for a range of risk metrics, including:
    - Value at Risk (VaR)
    - VaR Monte Carlo
@@ -36,11 +37,11 @@ Lukasz Gendek is a seasoned Java developer with 23 years of experience, currentl
    - Sensitivities
    - FRTB
    - Global Stress and Localized Stress
-5. **Columnar Database Storage:**  
+4. **Columnar Database Storage:**  
    - Utilized ActivePivot and Clickhouse for storing fact tables efficiently, optimizing query performance and storage.
-6. **Versioning:**  
+5. **Versioning:**  
    - Developed a robust versioning system to track and manage changes in the ETL processes and data transformations.
-7. **OLAP Cube Capabilities:**  
+6. **OLAP Cube Capabilities:**  
    - Integrated OLAP cube capabilities for real-time analysis and reporting functionality, enhancing decision-making processes.
 
 ## Conclusion
