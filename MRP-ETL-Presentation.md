@@ -18,15 +18,17 @@ Lukasz Gendek, a senior Java developer with more than 20 years of experience, cu
    Implemented solutions to comply with Fundamental Review of the Trading Book (FRTB) regulations, ensuring accurate and timely reporting.
 2. **Data Flow:**  
    Designed the data flow architecture that accepts data from traders, financial institutions, London database, goes through the cleaning house and middleware of the bank.  
-  - **Input:**  
+  **Input:**  
    - SABRE  
    - MARS  
    - URSUS  
    - EDELWEISS  
-  - **Formats:**  
+  
+  **Formats:**  
    - CSV
    - Parquet
-  - **Output:**  
+  
+  **Output:**  
    - ActivePivot
    - ClickHouse
 3. **Risk Metrics:**  
