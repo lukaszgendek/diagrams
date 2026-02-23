@@ -10,7 +10,7 @@ Lukasz Gendek, a senior Java developer with more than 20 years of experience, cu
 - **Role:** Java Developer
 - **Years Active:** 2025 March - Present
 - **Responsibilities:**  
-  - Collaborated with managers, architects, business analitics to create Spring Batch pipeline,
+  - Collaborated with managers, architects, business analitics to build Spring Batch pipeline,
   - Ensure the effective and efficient processing of financial data.
 
 ### Key Contributions
