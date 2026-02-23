@@ -17,7 +17,7 @@ Lukasz Gendek, a senior Java developer with more than 20 years of experience, cu
 1. **FRTB Regulatory Requirements:**  
    Implemented solutions to comply with Fundamental Review of the Trading Book (FRTB) regulations, ensuring accurate and timely reporting.
 2. **Data Flow:**  
-   Designed the data flow architecture that accepts data from traders, financial institutions, London database, goes through the cleaning house and middleware of the bank.  
+   Designed the data flow architecture that accepts data from traders, financial institutions, London database, goes through the cleaning house and middleware of the bank, the application finally uploads the data to ClickHouse/ActivePivot UI.  
   ##### Input:  
    - SABRE  
    - MARS  
@@ -43,8 +43,8 @@ Lukasz Gendek, a senior Java developer with more than 20 years of experience, cu
 4. **Columnar Database Storage:**  
    - Utilized ActivePivot and Clickhouse for storing fact tables efficiently, optimizing query performance and storage.
    - Storing versioning information to track and manage changes in the Fact tables.
-6. **OLAP Cube Capabilities:**  
-   - Integrated OLAP cube capabilities for real-time analysis and reporting functionality, enhancing decision-making processes.
+6. **Real Time Analitical Insight:**  
+   - OLAP cubes created to present the data in the multi-dimentional arrays.
 
 ## Conclusion
 Lukasz Gendek is a highly skilled Java developer with extensive experience in risk management applications, proficient in both technical and business aspects of financial data handling.
