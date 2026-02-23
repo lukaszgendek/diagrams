@@ -42,8 +42,7 @@ Lukasz Gendek, a senior Java developer with more than 20 years of experience, cu
    - Global Stress and Localized Stress
 4. **Columnar Database Storage:**  
    - Utilized ActivePivot and Clickhouse for storing fact tables efficiently, optimizing query performance and storage.
-5. **Versioning:**  
-   - Developed a robust versioning system to track and manage changes in the ETL processes and data transformations.
+   - Storing versioning information to track and manage changes in the Fact tables.
 6. **OLAP Cube Capabilities:**  
    - Integrated OLAP cube capabilities for real-time analysis and reporting functionality, enhancing decision-making processes.
 
