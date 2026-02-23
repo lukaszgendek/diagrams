@@ -3,7 +3,7 @@
 ![Description of image](./image2.jpg)
 
 ## Summary
-Lukasz Gendek, a senior Java developer with 23 years of experience, currently developing and maintaining the Market Risk Platform Active Pivot ETL application.
+Lukasz Gendek, a senior Java developer with more than 20 years of experience, currently developing and maintaining the Market Risk Platform Active Pivot ETL application.
 
 ## Professional Experience
 ### Market Risk Platform Active Pivot ETL Application
