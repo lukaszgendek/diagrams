@@ -1,29 +1,24 @@
-# Lukasz Gendek: Java Developer
+# Lukasz Gendek: Senior Java Developer
 
 ![Description of image](./image2.jpg)
 
 ## Summary
-Lukasz Gendek is a seasoned Java developer with 23 years of experience, currently in the developing and maintaining the Market Risk Platform Active Pivot ETL application.
+Lukasz Gendek, a senior Java developer with 23 years of experience, currently developing and maintaining the Market Risk Platform Active Pivot ETL application.
 
 ## Professional Experience
 ### Market Risk Platform Active Pivot ETL Application
 - **Role:** Java Developer
 - **Years Active:** 2025 March - Present
 - **Responsibilities:**  
-  - Developed high-performance ETL processes to handle complex datasets.  
-  - Collaborated with managers, architects, business analitics to ensure the effective and efficient processing of financial data.
+  - Collaborated with managers, architects, business analitics to create Spring Batch pipeline,
+  - Ensure the effective and efficient processing of financial data.
 
 ### Key Contributions
 1. **FRTB Regulatory Requirements:**  
    Implemented solutions to comply with Fundamental Review of the Trading Book (FRTB) regulations, ensuring accurate and timely reporting.
 2. **Data Flow:**  
-   Designed the data flow architecture from traders, passing through the London database, to the cleaning house and middleware.  
-   - **Input:**  
-     - Traders Input  
-     - London Database  
-     - Cleaning House  
-     - Middleware of the Bank (Cortex)
-  - **Systems:**  
+   Designed the data flow architecture that accepts data from traders, financial institutions, London database, goes through the cleaning house and middleware of the bank.  
+  - **Input:**  
    - SABRE  
    - MARS  
    - URSUS  
@@ -31,7 +26,10 @@ Lukasz Gendek is a seasoned Java developer with 23 years of experience, currentl
   - **Formats:**  
    - CSV
    - Parquet
-3. **Risk Metrics Generated:**  
+  - **Output:**  
+   - ActivePivot
+   - ClickHouse
+3. **Risk Metrics:**  
    Implemented calculations for a range of risk metrics, including:
    - Value at Risk (VaR)
    - VaR Monte Carlo
